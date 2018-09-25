@@ -7,6 +7,9 @@
 [licsvg]: https://img.shields.io/badge/license-MIT-green.svg
 [lic]: https://github.com/ishbguy/project-startup/blob/master/LICENSE
 
+A good beginning is half the success! Project startup provide you simple and
+clean templates to start a project.
+
 ## Table of Contents
 
 + [:art: Features](#art-features)
